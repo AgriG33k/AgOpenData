@@ -142,3 +142,9 @@ Table des matières
 - [Registre Parcellaire Graphique 2012](https://geoservices.ign.fr/rpg#telechargementrpg2012)
 - [Registre Parcellaire Graphique 2011](https://geoservices.ign.fr/rpg#telechargementrpg2011)
 - [Registre Parcellaire Graphique 2011](https://geoservices.ign.fr/rpg#telechargementrpg2010)
+
+### Parcelles en agriculture biologique
+https://www.data.gouv.fr/fr/datasets/parcelles-en-agriculture-biologique-ab-declarees-a-la-pac/
+- [Année 2021](https://www.data.gouv.fr/fr/datasets/r/a98c685e-740a-4004-be7a-15adfc48489a)
+- [Année 2020](https://www.data.gouv.fr/fr/datasets/r/6428e701-1229-43b7-aaf7-16bbed2ea507)
+- [Année 2019](https://www.data.gouv.fr/fr/datasets/r/3d20336f-ce2d-4709-bced-ba1d826b3b41)
