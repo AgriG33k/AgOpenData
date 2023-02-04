@@ -1,8 +1,8 @@
 
 
 # AgOpenData
-Ce repo regroupe plusieurs jeux de données Open Data agricoles, libres d'accès et d'usage.
-Si vous avez cherché des données, n'hésitez pas à le partager 
+Ce repo regroupe plusieurs jeux de données Open Data agricoles, libres d'accès et d'usage (Licence ouverte, licences Creative Commons).
+Si vous avez connaissance de données ouvertes, n'hésitez pas à contribuer !
 
 *******
 Table des matières
